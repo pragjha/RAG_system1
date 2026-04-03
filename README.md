@@ -4,4 +4,5 @@ Small RAG demo that loads a PDF, chunks it, generates embeddings via Ollama, and
 
 Commands for libraries installation:
 pip install langchain-community pypdf
+
 pip install PyPDF2
