@@ -11,6 +11,8 @@ pip install langchain-community pypdf
 
 pip install PyPDF2
 
+pip install -qU langchain-ollama
+
 Software to be installed:
 
 Ollama For Windows----> For embedding
