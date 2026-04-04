@@ -13,6 +13,8 @@ pip install PyPDF2
 
 pip install -qU langchain-ollama
 
+pip install langchain-ollama langchain-community langchain chromadb
+
 Software to be installed:
 
 Ollama For Windows----> For embedding
