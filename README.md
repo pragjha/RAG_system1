@@ -10,3 +10,7 @@ Commands for libraries installation:
 pip install langchain-community pypdf
 
 pip install PyPDF2
+
+Software to be installed:
+
+Ollama For Windows----> For embedding
